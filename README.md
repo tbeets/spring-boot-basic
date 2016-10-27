@@ -1,4 +1,4 @@
-# spring-boot-1
+# spring-boot-basic
 
 Ye' olde basic Spring Boot (web) sample project.
 
